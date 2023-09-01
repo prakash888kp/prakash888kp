@@ -53,6 +53,9 @@ LearnBuddi https://github.com/prakash888kp/FlutterLearnBuddiApp
 Crop Yield Prediction https://github.com/prakash888kp/Ensemble-XGB-LIGHTGBM-for-crop-yield-prediction
 
 📫 How to Reach Me
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/prakash-k-2a4346152)
+
+LinkedIn: [Prakash](https://www.linkedin.com/in/prakash-k-2a4346152)
+
 Twitter: @prakash888kp
+
 Email: prakash888kp@yahoo.com
