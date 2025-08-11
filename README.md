@@ -49,8 +49,6 @@ Other Skills: Automation Testing, Data Visualization, Flutter
 
 ## 🌱 Recent Projects
 
-## 🌱 Recent Projects
-
 1. [**ItineraryGenius**](https://github.com/prakash888kp/ItineraryGenius)  
    A personalized travel assistant powered by generative AI. It crafts unique, detailed, and visually engaging travel itineraries based on user preferences, budget, and travel style. Features include AI-generated imagery, budget analysis, and exportable itineraries.
 
