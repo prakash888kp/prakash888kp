@@ -49,20 +49,28 @@ Other Skills: Automation Testing, Data Visualization, Flutter
 
 ## 🌱 Recent Projects
 
-1. **ItineraryGenius**  
-   A personalized travel assistant powered by generative AI. It crafts unique, detailed, and visually engaging travel itineraries in seconds.
+## 🌱 Recent Projects
 
-2. **LearnBuddiApp**  
-   A comprehensive educational platform built with Flutter and Firebase, designed to enhance learning experiences through interactive modules and real-time data sync.
+1. [**ItineraryGenius**](https://github.com/prakash888kp/ItineraryGenius)  
+   A personalized travel assistant powered by generative AI. It crafts unique, detailed, and visually engaging travel itineraries based on user preferences, budget, and travel style. Features include AI-generated imagery, budget analysis, and exportable itineraries.
 
-3. **Ensemble XGBoost & LightGBM for Crop Yield Prediction**  
-   An ensemble learning project focused on predicting crop yield using advanced models like XGBoost and LightGBM for improved accuracy.
+2. [**NalamAI**](https://github.com/prakash888kp/NalamAI)  
+   An AI-powered health assistant offering multilingual, culturally tailored health advice. It supports voice interaction, symptom analysis via Gemini, and retrieval-augmented generation for real-time medical guidance.
 
-4. **Binance Futures Trading Bot (Python)**  
-   Automated trading system for Binance Futures, developed in Python. Implements trading strategies and real-time market analysis.
+3. [**LearnBuddiApp**](https://github.com/prakash888kp/FlutterLearnBuddiApp)  
+   A comprehensive educational platform built with Flutter and Firebase. It supports course management, real-time updates, personalized learning paths, and integrated admin-student communication.
 
-5. **Plant Disease Detection Using Ensemble Learning**  
-   Applied ensemble learning techniques to identify plant diseases with high precision, contributing to smarter agricultural diagnostics.
+4. [**Ensemble XGBoost & LightGBM for Crop Yield Prediction**](https://github.com/prakash888kp/Ensemble-XGB-LIGHTGBM-for-crop-yield-prediction)  
+   A stacking ensemble model using optimized XGBoost and LightGBM to predict crop yields with improved accuracy and performance.
+
+5. [**Binance Futures Trading Bot (Python)**](https://github.com/prakash888kp/Binance-Future-Trading-using-Python)  
+   An automated crypto trading bot for Binance Futures. It calculates trade quantities based on balance and allocation percentage, enabling strategic trading execution.
+
+6. [**Plant Disease Detection Using Ensemble Learning**](https://github.com/prakash888kp/EnsembleDiseaseDetection)  
+   Applied ensemble learning techniques to identify plant diseases with high precision, contributing to smarter agricultural diagnostics. *(GitHub link not provided)*
+
+7. [**Stock Rate Predictor**](https://github.com/prakash888kp/Stock-Rate-Predector)  
+   A deep learning project using LSTM neural networks to predict stock prices. Achieved strong performance with low error rates and includes data preprocessing, model optimization, and visualization.
 
 REPOS :: https://github.com/prakash888kp?tab=repositories
 
