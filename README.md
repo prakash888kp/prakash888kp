@@ -1,14 +1,14 @@
-👋 Hello World, I'm Prakash
+## 👋 Hello World, I'm Prakash
 
-🎓 About Me
+## 🎓 About Me
 
 I'm a passionate Data Scientist with experience in a variety of technologies and frameworks. 
 
-I hold an M.Tech in Data Science and currently work as an Automation Tester leveraging Appium and Selenium. 
+I hold an M.Tech in Data Science and currently work as an SDET leveraging Appium and Selenium at Zensar. 
 
 I am passionate about solving complex problems with data.
 
-🛠️ Skills and Technologies
+## 🛠️ Skills and Technologies
 
 Languages: Python, Java ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=Java&logoColor=white)
@@ -32,25 +32,40 @@ Other Skills: Automation Testing, Data Visualization, Flutter
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 
-📊 GitHub Stats
+## 📚 Research and Publications
 
-Your GitHub stats
+1. **AI-Based Agriculture Recommendation System for Farmers**  
+   _Springer, Lecture Notes in Networks and Systems_  
+   [Read Chapter](https://link.springer.com/chapter/10.1007/978-981-99-3754-7_7)
 
-🌱 Recent Projects
+2. **Medical Mask Detection Using Various CNN Models**  
+   _IEEE Xplore, 2021 International Conference on System, Computation, Automation and Networking (ICSCAN)_  
+   [View Paper](https://ieeexplore.ieee.org/document/9675506)
 
-LearnBuddiApp: A comprehensive educational platform using Flutter and Firebase. Repo Link
+3. **Deep Learning-Based Recommendation System: A Survey**  
+   _International Journal of Innovative Science and Research Technology (IJISRT)_  
+   [Access Survey](https://ijisrt.com/deeplearing-based-recommendation-system-survey-paper)
 
-Ensemble-XGB-LIGHTGBM-for-crop-yield-prediction: An ensemble learning project for predicting crop yield using XGBoost and LightGBM. Repo Link
+## 📊 GitHub Stats
 
-Binance-Future-Trading-using-Python: Automated trading on Binance Futures using Python. Repo Link
+## 🌱 Recent Projects
 
-Plant disease detection using ensemble learning: Leveraged ensemble learning techniques for accurate plant disease identification. Repo Link
+1. **ItineraryGenius**  
+   A personalized travel assistant powered by generative AI. It crafts unique, detailed, and visually engaging travel itineraries in seconds.
 
-📸 Portfolio Highlights
+2. **LearnBuddiApp**  
+   A comprehensive educational platform built with Flutter and Firebase, designed to enhance learning experiences through interactive modules and real-time data sync.
 
-LearnBuddi https://github.com/prakash888kp/FlutterLearnBuddiApp
+3. **Ensemble XGBoost & LightGBM for Crop Yield Prediction**  
+   An ensemble learning project focused on predicting crop yield using advanced models like XGBoost and LightGBM for improved accuracy.
 
-Crop Yield Prediction https://github.com/prakash888kp/Ensemble-XGB-LIGHTGBM-for-crop-yield-prediction
+4. **Binance Futures Trading Bot (Python)**  
+   Automated trading system for Binance Futures, developed in Python. Implements trading strategies and real-time market analysis.
+
+5. **Plant Disease Detection Using Ensemble Learning**  
+   Applied ensemble learning techniques to identify plant diseases with high precision, contributing to smarter agricultural diagnostics.
+
+REPOS :: https://github.com/prakash888kp?tab=repositories
 
 📫 How to Reach Me
 
