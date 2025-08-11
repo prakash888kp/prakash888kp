@@ -4,8 +4,7 @@
 
 I'm a passionate Data Scientist with experience in a variety of technologies and frameworks. 
 
-I hold an M.Tech in Data Science and currently work as an SDET leveraging Appium and Selenium at Zensar. 
-
+I hold a B.Tech in Information Technology and an M.Tech in Data Science. I currently work as an SDET at Zensar Technologies, leveraging Appium and Selenium for automated testing.
 I am passionate about solving complex problems with data.
 
 ## 🛠️ Skills and Technologies
