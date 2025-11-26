@@ -62,7 +62,7 @@ Other Skills: Automation Testing, Data Visualization, Flutter
    A stacking ensemble model using optimized XGBoost and LightGBM to predict crop yields with improved accuracy and performance.
 
 5. [**Plant Disease Detection Using Ensemble Learning**](https://github.com/prakash888kp/EnsembleDiseaseDetection)  
-   Applied ensemble learning techniques to identify plant diseases with high precision, contributing to smarter agricultural diagnostics. *(GitHub link not provided)*
+   Applied ensemble learning techniques to identify plant diseases with high precision, contributing to smarter agricultural diagnostics.
 
 6. [**Stock Rate Predictor**](https://github.com/prakash888kp/Stock-Rate-Predector)  
    A deep learning project using LSTM neural networks to predict stock prices. Achieved strong performance with low error rates and includes data preprocessing, model optimization, and visualization.
