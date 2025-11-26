@@ -61,20 +61,15 @@ Other Skills: Automation Testing, Data Visualization, Flutter
 4. [**Ensemble XGBoost & LightGBM for Crop Yield Prediction**](https://github.com/prakash888kp/Ensemble-XGB-LIGHTGBM-for-crop-yield-prediction)  
    A stacking ensemble model using optimized XGBoost and LightGBM to predict crop yields with improved accuracy and performance.
 
-5. [**Binance Futures Trading Bot (Python)**](https://github.com/prakash888kp/Binance-Future-Trading-using-Python)  
-   An automated crypto trading bot for Binance Futures. It calculates trade quantities based on balance and allocation percentage, enabling strategic trading execution.
-
-6. [**Plant Disease Detection Using Ensemble Learning**](https://github.com/prakash888kp/EnsembleDiseaseDetection)  
+5. [**Plant Disease Detection Using Ensemble Learning**](https://github.com/prakash888kp/EnsembleDiseaseDetection)  
    Applied ensemble learning techniques to identify plant diseases with high precision, contributing to smarter agricultural diagnostics. *(GitHub link not provided)*
 
-7. [**Stock Rate Predictor**](https://github.com/prakash888kp/Stock-Rate-Predector)  
+6. [**Stock Rate Predictor**](https://github.com/prakash888kp/Stock-Rate-Predector)  
    A deep learning project using LSTM neural networks to predict stock prices. Achieved strong performance with low error rates and includes data preprocessing, model optimization, and visualization.
 
 REPOS :: https://github.com/prakash888kp?tab=repositories
 
 📫 How to Reach Me
-
-LinkedIn: [Prakash](https://www.linkedin.com/in/prakash-k-2a4346152)
 
 Twitter: @prakash888kp
 
